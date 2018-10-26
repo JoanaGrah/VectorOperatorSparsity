@@ -3,16 +3,16 @@
 Code for image denoising with vector operator sparsity regularisation accompanying the paper
 "Unified Models for Second-Order TV-Type Regularisation in Imaging - A New Perspective Based on Vector Operators." _arXiv preprint arXiv:1802.01895_, 2018.
 
-Eva-Maria Brinkmann
-Applied Mathematics: Institute for Analysis and Numerics, Westfälische Wilhelms-Universität Münster, Germany
+Eva-Maria Brinkmann\
+Applied Mathematics: Institute for Analysis and Numerics, Westfälische Wilhelms-Universität Münster, Germany\
 **e.brinkmann@wwu.de**
 
-Martin Burger
-Department Mathematik, Friedrich-Alexander Universität Erlangen-Nürnberg, Germany
+Martin Burger\
+Department Mathematik, Friedrich-Alexander Universität Erlangen-Nürnberg, Germany\
 **martin.burger@fau.de**
 
-Joana Sarah Grah
-Institute for Computer Graphics and Vision, Graz University of Technology, Austria
+Joana Sarah Grah\
+Institute for Computer Graphics and Vision, Graz University of Technology, Austria\
 **joana.grah@icg.tugraz.at**
 
 
